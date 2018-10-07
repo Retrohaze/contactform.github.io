@@ -1,6 +1,6 @@
 <?php
 
-	$site_owners_email = 'deepakkumarb1997@gmail.com'; // Replace this with your own email address
+	$site_owners_email = 'deepak@chaitime.epizy.com'; // Replace this with your own email address
 	$site_owners_name = 'Deepak Kumar'; // replace with your name
 
 	$name = filter_var($_POST['contactName'], FILTER_SANITIZE_STRING);
